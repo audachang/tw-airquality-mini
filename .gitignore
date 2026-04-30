@@ -18,3 +18,4 @@ Thumbs.db
 
 # Data
 data/raw/*.csv
+data/processed/*.csv
